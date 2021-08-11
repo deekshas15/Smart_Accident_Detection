@@ -1,0 +1,17 @@
+{
+  "name": "drts_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jigyasa Agarwal",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.908.0",
+    "firebase": "^8.6.1",
+    "firebase-admin": "^9.8.0",
+    "socket.io": "^3.0.3"
+  }
+}
